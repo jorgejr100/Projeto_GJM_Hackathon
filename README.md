@@ -8,6 +8,8 @@ Através de um ambiente virtual interativo, os usuários podem explorar diferent
 
 O projeto foi desenvolvido durante um hackathon com o objetivo de demonstrar como tecnologias imersivas podem aumentar o engajamento, melhorar a retenção de conhecimento e contribuir para treinamentos mais eficientes e padronizados.
 
+Link do vídeo explicativo do projeto - https://youtu.be/oDLkNS1r54E
+
 ---
 
 ## 🎯 Problema
